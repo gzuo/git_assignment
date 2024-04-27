@@ -1,1 +1,1 @@
-# Git Assignment - <gzuo>
+# Git Assignment - gzuo
